@@ -6,7 +6,8 @@
         {
             // InsertionSort.Sort();
             //BubbleSort.SortArrayUsingBubbleSort();
-            AnagramDetection.Anagram();
+            //AnagramDetection.Anagram();
+            PrimeNumber.IsPrime();
             Console.ReadKey();
         }
     }
