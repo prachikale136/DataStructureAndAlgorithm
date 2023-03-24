@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             // InsertionSort.Sort();
-            BubbleSort.SortArrayUsingBubbleSort();
+            //BubbleSort.SortArrayUsingBubbleSort();
+            AnagramDetection.Anagram();
             Console.ReadKey();
         }
     }
