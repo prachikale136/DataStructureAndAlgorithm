@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            InsertionSort.Sort();
+            // InsertionSort.Sort();
+            BubbleSort.SortArrayUsingBubbleSort();
             Console.ReadKey();
         }
     }
